@@ -50,6 +50,7 @@
             this.login1.PlaceholderUsername = "Username";
             this.login1.Size = new System.Drawing.Size(272, 177);
             this.login1.TabIndex = 0;
+            this.login1.OnLoginClick += new System.EventHandler<ctrlLoginInfo.Login.LoginInfoEventArgs>(this.login1_OnLoginClick);
             // 
             // Form1
             // 

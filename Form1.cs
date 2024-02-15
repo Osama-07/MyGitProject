@@ -16,5 +16,11 @@ namespace MyGitProject
         {
             InitializeComponent();
         }
+
+        private void login1_OnLoginClick(object sender, ctrlLoginInfo.Login.LoginInfoEventArgs e)
+        {
+            MessageBox.Show($"Username : {e.Username}\n\nPassword : {e.Password}\n\nRemember me : {e.RememberMe}",
+                "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
