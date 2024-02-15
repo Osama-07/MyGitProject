@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\MyGitProject.exe.config
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\MyGitProject.exe
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\MyGitProject.pdb
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\ctrlLoginInfo.dll
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\Guna.UI2.dll
+C:\Users\TOSHIBA\Desktop\MyGitProject\bin\Debug\ctrlLoginInfo.pdb
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.Form1.resources
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.exe
+C:\Users\TOSHIBA\Desktop\MyGitProject\obj\Debug\MyGitProject.pdb
